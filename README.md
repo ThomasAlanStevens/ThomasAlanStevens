@@ -168,7 +168,7 @@
     </table>
 </div>
 
-<h2 align="center">Github Stats And Graphs</h2>
+<h2 align="center">Stats And Graphs</h2>
 <table>
     <tr>
         <td width="50%">
@@ -180,6 +180,7 @@
     </tr>
 </table>
 <img src="https://activity-graph.herokuapp.com/graph?username=thomasalanstevens&bg_color=FFFFFF00&color=050E96&line=050E96&point=8E1010&hide_border=true&title_color=8E1010&include_all_commits=true&count_private=true">
+<img src="/img/codedWars.PNG">
 
 
 
