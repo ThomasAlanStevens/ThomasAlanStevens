@@ -20,7 +20,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&hide_border=true&hide=stars&text_color=050E96&icon_color=050E96&title_color=8E1010&include_all_commits=true&count_private=true&show_icon=true">
 </table>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=thomasalanstevens&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=28314A&include_all_commits=true&count_private=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=thomasalanstevens&bg_color=FFFFFF00&color=050E96&line=050E96&point=8E1010&hide_border=true&title_color=8E1010&include_all_commits=true&count_private=true">
 
 <h2 align="center"><u>Connect With Me</u></h3>
 
