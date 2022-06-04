@@ -11,9 +11,9 @@
 <h2 align="center"><u>Connect With Me!</u></h3>
 
 <section align="center">
-<a href="https://stevenssoftwareservices.com" style="padding-right:100px;"><img align="center" alt="Website" width="10%" src="./img/globe-light.svg" style="padding-right:10px;" /></a>
-<a href="https://twitter.com/ThomasAlanStev" style="padding-right:100px;"><img align="center" alt="Twitter" width="10%" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
-<a href="https://www.linkedin.com/in/thomas-alan-stevens" style="padding-right:100px;"><img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>
+<a href="https://stevenssoftwareservices.com"><img align="center" alt="Website" width="10%" style="padding-right:10px;" src="./img/globe-light.svg" style="padding-right:10px;" /></a>
+<a href="https://twitter.com/ThomasAlanStev"><img align="center" alt="Twitter" width="10%" style="padding-right:10px;" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/thomas-alan-stevens"><img align="center" alt="Linkedin" width="10%"style="padding-right:10px;" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>
 </section>
 
 <!---
