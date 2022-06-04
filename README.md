@@ -14,10 +14,10 @@
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&background=BFDADF&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A">
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&hide_border=true&bg_color=BFDADF&hide=stars&text_color=28314A&icon_color=28314A&title_color=28314A&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&hide_border=true&hide=stars&text_color=28314A&icon_color=28314A&title_color=28314A&include_all_commits=true&count_private=true">
 </table>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=thomasalanstevens&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=28314A&include_all_commits=true&count_private=true">
@@ -57,6 +57,3 @@
 
 ---
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&show_icons=true&theme=rose_pine&hide=stars)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAlanStevens&layout=compact)](https://github.com/ThomasAlanStevens/github-readme-stats)
