@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on full-stack MERN projects and open source projects!
 - 💬 Ask me about Websites, Apps, and Math.
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center"><u>Connect With Me!</u></h3>
 
 [![website](./img/globe-light.svg)](https://stevenssoftwareservices.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://stevenssoftwareservices.com#gh-dark-mode-only)
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align='center' style='text-decoration:underline;'> Languages and Tool </h3>
+<h2 align='center'><u>Languages and Tool!</u></h3>
 
 <section align="center">
 <img align="center" alt="Visual Studio Code" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
