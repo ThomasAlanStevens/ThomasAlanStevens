@@ -8,7 +8,20 @@
 - 💞️ I’m looking to collaborate on full-stack MERN projects and open source projects!
 - 💬 Ask me about Websites, Apps, and Math.
 
-<h2 align="center"><u>Connect With Me!</u></h3>
+<h2 align="center">Github Stats</h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&theme=prussian">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&show_icons=true&theme=prussian&hide=stars">
+</table>
+</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=thomasalanstevens&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
+
+<h2 align="center"><u>Connect With Me</u></h3>
 
 <section align="center">
 <a href="https://stevenssoftwareservices.com"><img align="center" alt="Website" width="10%" src="./img/globe-light.svg"/></a>
@@ -18,14 +31,7 @@
 <a href="https://www.linkedin.com/in/thomas-alan-stevens"><img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg"/></a>
 </section>
 
-<!---
-ThomasAlanStevens/ThomasAlanStevens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-<h2 align='center'><u>Languages and Tool!</u></h3>
+<h2 align='center'><u>Languages and Tool</u></h3>
 
 <section align="center">
 <img align="center" alt="Visual Studio Code" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
