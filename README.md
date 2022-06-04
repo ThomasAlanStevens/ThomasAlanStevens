@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&theme=prussian">
+<img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&background=BFDADF&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A)](https://git.io/streak-stats)">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&show_icons=true&theme=prussian&hide=stars">
