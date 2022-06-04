@@ -12,9 +12,9 @@
 
 <section align="center">
 <a href="https://stevenssoftwareservices.com"><img align="center" alt="Website" width="10%" src="./img/globe-light.svg" style="padding-right:10px;" /></a>
-<div width="10%"></div>
+<span width="10%"></span>
 <a href="https://twitter.com/ThomasAlanStev"><img align="center" alt="Twitter" width="10%" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
-<div width="10%"></div>
+<span width="10%"></span>
 <a href="https://www.linkedin.com/in/thomas-alan-stevens"><img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>
 </section>
 
