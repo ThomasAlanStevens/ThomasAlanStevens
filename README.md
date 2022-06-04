@@ -1,7 +1,7 @@
 ![alt text](https://github.com/ThomasAlanStevens/ThomasAlanStevens/blob/main/Github%20Cover.gif?raw=true)
 
 
-# Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="20px" height="20px"> My name is Thomas Stevens.
+# Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px"> My name is Thomas Stevens.
 
 - 😃 I'm a software developer, teacher, and tech community advocate!
 - 👀 I’m interested in improving my software development skills everyday!
