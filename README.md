@@ -10,6 +10,12 @@
 
 <h2 align="center"><u>Connect With Me!</u></h3>
 
+<section align="center">
+<img align="center" alt="Website" width="30%" src="./img/globe-light.svg" style="padding-right:10px;" />
+<img align="center" alt="Twitter" width="30%" src="./img/twitter-light.svg" style="padding-right:10px;" />
+<img align="center" alt="Linkedin" width="30%" src="./img/linkedin-light.svg" style="padding-right:10px;" />
+</section>
+
 [![website](./img/globe-light.svg)](https://stevenssoftwareservices.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://stevenssoftwareservices.com#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -19,13 +25,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thomas-alan-stevens/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thomas-alan-stevens/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-
-<!---
-ThomasAlanStevens/ThomasAlanStevens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 
 <h2 align='center'><u>Languages and Tool!</u></h3>
@@ -44,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />] -->
 <img align="center" alt="Git" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="center" alt="GitHub" width="8%" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="center" alt="Express" width="24%" src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" style="padding-right:10px;"/>
+<img align="center" alt="Express" width="18%" src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" style="padding-right:10px;"/>
 </section>
 
 
