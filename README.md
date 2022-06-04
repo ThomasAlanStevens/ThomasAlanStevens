@@ -168,7 +168,7 @@
     </table>
 </div>
 
-<h2 align="center">Stats And Graphs</h2>
+<h2 align="center">Github And Codewars Data/Analytics</h2>
 <table>
     <tr>
         <td width="50%">
