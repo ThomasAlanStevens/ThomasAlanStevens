@@ -38,13 +38,13 @@
                 <h3 align="center" color="white">Coming Soon</h3>
                     <div align="center" >  
                     <a href='https://www.google.com'>
-                    <img src="https://source.unsplash.com/600x400/?city" alt="" height="322px" width="100%" />
+                    <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000" alt="" height="322px" width="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
                         <a href="https://www.google.com" target="_blank">
-                            <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000ey?style=for-the-badge&logo=github"/>
+                            <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
                         </a>  
                         <a href="https://www.google.com" target="_blank">
                             <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
@@ -149,7 +149,12 @@
                     </p>
                     <p><strong>TECH STACK</strong> - DESCRIPTION</p>
                 </div>
-            </td>https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000lign="center">Github Stats And Graphs</h2>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<h2 align="center">Github Stats And Graphs</h2>
 <table>
     <tr>
         <td width="50%">
