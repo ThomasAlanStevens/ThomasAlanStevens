@@ -17,7 +17,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&background=BFDADF&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevenshide_border=true&background=BFDADF&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A&hide=stars">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&hide_border=true&background=BFDADF&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A&hide=stars">
 </table>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=thomasalanstevens&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
