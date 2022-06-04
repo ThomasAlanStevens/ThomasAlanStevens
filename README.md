@@ -16,7 +16,7 @@
     <table>
         <tr>
             <td width="50%">
-                <h3 align="center" color="white">Naruto 2D Game Selector</h2>
+                <h3 align="center" color="white">Naruto 2D Game Selector</h3>
                 <div align="center" >  
                 <a href='#'> 
                 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
@@ -35,7 +35,7 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center" color="white">Samflix Movie Info.</h2>
+                <h3 align="center" color="white">Samflix Movie Info.</h3>
                 <div align="center" >  
                 <a href='https://ssjrmovieapi.netlify.app/'>
                 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="" height="322px" width="100%" />
@@ -56,7 +56,7 @@
         </tr>
         <tr>
             <td width="50%">
-                <h3 align="center" color="white">T&K Nigerian Restaurant</h2>
+                <h3 align="center" color="white">T&K Nigerian Restaurant</h3>
                 <div align="center">  
                 <a href='https://tandkrestaurant.netlify.app/'>
                 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true" alt="Restaurant Website" height="322px" width="100%" />
@@ -75,7 +75,7 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center" color="white">Coming Soon</h2>
+                <h3 align="center" color="white">Coming Soon</h3>
                 <div align="center" >  
                 <a href='https://www.google.com'>
                 <img src="https://source.unsplash.com/600x400/?city" alt="" height="322px" width="100%" />
