@@ -1,3 +1,6 @@
+![alt text](https://github.com/ThomasAlanStevens/ThomasAlanStevens/blob/main/Github%20Cover.gif?raw=true)
+
+
 # Hi there, I'm Thomas!
 
 - 😃 I'm a software developer, teacher, and tech community advocate!
