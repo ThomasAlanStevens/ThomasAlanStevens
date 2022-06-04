@@ -12,7 +12,7 @@
 
 <section align="center">
 <a href="https://stevenssoftwareservices.com"><img align="center" alt="Website" width="10%" src="./img/globe-light.svg"/></a>
-<img align="center" alt="White" width="10%" src="./img/white.jpg"/>
+<img align="center" alt="White" width="10%" src="./img/white.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/ThomasAlanStev"><img align="center" alt="Twitter" width="10%" src="./img/twitter-light.svg"/></a>
 <img align="center" alt="White" width="10%" src="./img/white.jpg"/>
 <a href="https://www.linkedin.com/in/thomas-alan-stevens"><img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg"/></a>
