@@ -53,6 +53,8 @@
                 <p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> — Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
                 </div>
             </td>
+        </tr>
+        <tr>
             <td width="50%">
                 <h3 align="center" color="white">T&K Nigerian Restaurant</h2>
                 <div align="center">  
