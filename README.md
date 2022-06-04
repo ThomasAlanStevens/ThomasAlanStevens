@@ -11,21 +11,10 @@
 <h2 align="center"><u>Connect With Me!</u></h3>
 
 <section align="center">
-<img align="center" alt="Website" width="30%" src="./img/globe-light.svg" style="padding-right:10px;" />
-<img align="center" alt="Twitter" width="30%" src="./img/twitter-light.svg" style="padding-right:10px;" />
-<img align="center" alt="Linkedin" width="30%" src="./img/linkedin-light.svg" style="padding-right:10px;" />
+<img align="center" alt="Website" width="10%" src="./img/globe-light.svg" style="padding-right:10px;" />
+<img align="center" alt="Twitter" width="10%" src="./img/twitter-light.svg" style="padding-right:10px;" />
+<img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg" style="padding-right:10px;" />
 </section>
-
-[![website](./img/globe-light.svg)](https://stevenssoftwareservices.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://stevenssoftwareservices.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ThomasAlanStev#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ThomasAlanStev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thomas-alan-stevens/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thomas-alan-stevens/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 
 <h2 align='center'><u>Languages and Tool!</u></h3>
 
