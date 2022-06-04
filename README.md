@@ -13,10 +13,10 @@
 
 <table>
 <tr>
-<td width="50%" padding="0px !important">
+<td width="50%" style="padding:0;">
 <img width="100%" height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&background=BFDADF&stroke=28314A&fire=8E1010&dates=28314A&sideLabels=28314A&currStreakLabel=28314A&sideNums=28314A&currStreakNum=28314A&ring=28314A">
 </td>
-<td width="50%" padding="0px !important">
+<td width="50%" style="padding:0;">
 <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&hide_border=true&bg_color=BFDADF&hide=stars&text_color=28314A&icon_color=28314A&title_color=28314A">
 </table>
 
