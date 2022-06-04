@@ -16,6 +16,44 @@
     <table>
         <tr>
             <td width="50%">
+                <h3 align="center" color="white">Coming Soon</h3>
+                    <div align="center" >  
+                    <a href='https://www.google.com'>
+                    <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000" alt="" height="322px" width="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://www.google.com" target="_blank">
+                            <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://www.google.com" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+                        </a>
+                    </p>
+                    <p><strong>TECH STACK</strong> - DESCRIPTION</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center" color="white">Coming Soon</h3>
+                    <div align="center" >  
+                    <a href='https://www.google.com'>
+                    <img src="https://source.unsplash.com/600x400/?city" alt="" height="322px" width="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://www.google.com" target="_blank">
+                            <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000ey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://www.google.com" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+                        </a>
+                    </p>
+                    <p><strong>TECH STACK</strong> - DESCRIPTION</p>
+                </div>
+            </td>
+            <!-- <td width="50%">
                 <h3 align="center" color="white">Naruto 2D Game Selector</h3>
                 <div align="center" >  
                     <a href='#'> 
@@ -33,8 +71,8 @@
                     </p>
                     <p><strong>JavaScript, CSS3, HTML5</strong> — Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
                 </div>
-            </td>
-            <td width="50%">
+            </td> -->
+            <!-- <td width="50%">
                 <h3 align="center" color="white">Samflix Movie Info.</h3>
                 <div align="center" >  
                     <a href='https://ssjrmovieapi.netlify.app/'>
@@ -52,10 +90,10 @@
                     </p>
                     <p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> — Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
                 </div>
-            </td>
+            </td> -->
         </tr>
         <tr>
-            <td width="50%">
+            <!-- <td width="50%">
                 <h3 align="center" color="white">T&K Nigerian Restaurant</h3>
                     <div align="center">  
                     <a href='https://tandkrestaurant.netlify.app/'>
@@ -72,13 +110,13 @@
                         </a>
                     </p>
                     <p><strong>JavaScript, jQuery, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop and mobile web interface for customers of T&K Restaurant to browse their menu and connect to Door Dash and place orders for delivery or pick up.</p>
-                </div>
-            </td>
+                </div> 
+            </td> -->
             <td width="50%">
                 <h3 align="center" color="white">Coming Soon</h3>
                     <div align="center" >  
                     <a href='https://www.google.com'>
-                    <img src="https://source.unsplash.com/600x400/?city" alt="" height="322px" width="100%" />
+                    <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000" alt="" height="322px" width="100%" />
                     </a>
                     <br>
                     <br>
@@ -93,11 +131,25 @@
                     <p><strong>TECH STACK</strong> - DESCRIPTION</p>
                 </div>
             </td>
-        </tr>
-    </table>
-</div>
-
-<h2 align="center">Github Stats And Graphs</h2>
+            <td width="50%">
+                <h3 align="center" color="white">Coming Soon</h3>
+                    <div align="center" >  
+                    <a href='https://www.google.com'>
+                    <img src="https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000" alt="" height="322px" width="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://www.google.com" target="_blank">
+                            <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+                        </a>  
+                        <a href="https://www.google.com" target="_blank">
+                            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+                        </a>
+                    </p>
+                    <p><strong>TECH STACK</strong> - DESCRIPTION</p>
+                </div>
+            </td>https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?w=2000lign="center">Github Stats And Graphs</h2>
 <table>
     <tr>
         <td width="50%">
