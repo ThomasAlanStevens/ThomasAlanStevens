@@ -11,10 +11,17 @@
 <h2 align="center"><u>Connect With Me!</u></h3>
 
 <section align="center">
-<img align="center" alt="Website" width="10%" src="./img/globe-light.svg" style="padding-right:10px;" />
-<img align="center" alt="Twitter" width="10%" src="./img/twitter-light.svg" style="padding-right:10px;" />
-<img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg" style="padding-right:10px;" />
+<a href="https://stevenssoftwareservices.com"><img align="center" alt="Website" width="10%" src="./img/globe-light.svg" style="padding-right:10px;" /></a>
+<a href="https://twitter.com/ThomasAlanStev"><img align="center" alt="Twitter" width="10%" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/thomas-alan-stevens"><img align="center" alt="Linkedin" width="10%" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>
 </section>
+
+<!---
+ThomasAlanStevens/ThomasAlanStevens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 
 <h2 align='center'><u>Languages and Tool!</u></h3>
 
