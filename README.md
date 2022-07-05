@@ -1,5 +1,5 @@
 ![alt text](https://github.com/ThomasAlanStevens/ThomasAlanStevens/blob/main/Github%20Cover.gif?raw=true)
-<a href='stevenssoftwareservices.com'><img src="imgs/javascript-illustration.jpeg"></a>
+<a href='stevenssoftwareservices.com'><img src="/img/githubCover.gif"></a>
 
 <h1 align='center'>Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px"> My name is Thomas Stevens.</h1>
 
