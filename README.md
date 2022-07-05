@@ -1,4 +1,4 @@
-<a href='stevenssoftwareservices.com' target='_blank'><img src="/img/githubCover.gif"></a>
+<a href='stevenssoftwareservices.com' target='_blank'> <img src="/img/githubCover.gif"> </a>
 
 <h1 align='center'>Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px"> My name is Thomas Stevens.</h1>
 
