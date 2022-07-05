@@ -1,4 +1,5 @@
-![alt text](https://github.com/ThomasAlanStevens/ThomasAlanStevens/blob/main/Github%20Cover.gif?raw=true)
+<img src="/img/githubCover.gif" alt="Stevens Software Services Github Cover"/>
+<!-- ![alt text](https://github.com/ThomasAlanStevens/ThomasAlanStevens/blob/main/Github%20Cover.gif?raw=true) -->
 
 
 <h1 align='center'>Hi there! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px" height="30px"> My name is Thomas Stevens.</h1>
