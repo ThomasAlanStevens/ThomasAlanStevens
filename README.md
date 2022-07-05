@@ -18,7 +18,7 @@
     <img align="center" alt="Node.js" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="MongoDB" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img align="center" alt="Git" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img align="center" alt="GitHub" width="8%" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>
+    <img align="center" alt="GitHub" width="8%" src="/img/github-dark.svg"/>
     <img align="center" alt="Express" width="18%" src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png">
 </section>
 
