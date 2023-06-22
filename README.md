@@ -117,9 +117,6 @@
         <td width="50%">
             <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&stroke=050E96&fire=8E1010&dates=00000077&sideLabels=050E96&currStreakLabel=050E96&currStreakNum=8E1010&ring=050E96&sideNums=8E1010">
         </td>
-        <td width="50%">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThomasAlanStevens&hide_border=true&hide=stars&text_color=050E96&icon_color=050E96&title_color=8E1010&include_all_commits=true&count_private=true&show_icon=true">
-        </td>
     </tr>
 </table>
 <img src="/img/codeWars.PNG">
