@@ -112,13 +112,9 @@
 </div> -->
 
 <h2 align="center">Github And Codewars Data/Analytics</h2>
-<table>
-    <tr>
-        <td width="100%">
-            <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&stroke=050E96&fire=8E1010&dates=00000077&sideLabels=050E96&currStreakLabel=050E96&currStreakNum=8E1010&ring=050E96&sideNums=8E1010">
-        </td>
-    </tr>
-</table>
+
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ThomasAlanStevens&hide_border=true&stroke=050E96&fire=8E1010&dates=00000077&sideLabels=050E96&currStreakLabel=050E96&currStreakNum=8E1010&ring=050E96&sideNums=8E1010">
+
 <img src="/img/codeWars.PNG">
 
 
